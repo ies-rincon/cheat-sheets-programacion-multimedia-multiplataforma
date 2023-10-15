@@ -2,6 +2,10 @@
 
 Este Cheat Sheet proporciona una guía rápida para desarrollar aplicaciones móviles con Expo en React Native.
 
+## Introducción a Expo - React Native
+
+[Expo](https://expo.dev/) es una plataforma y conjunto de herramientas que simplifican el desarrollo de aplicaciones móviles utilizando React Native. Con Expo, puedes crear aplicaciones para iOS, Android y la web utilizando un conjunto de componentes y bibliotecas preconstruidas. No es necesario configurar entornos de desarrollo complejos ni preocuparse por la configuración nativa, lo que hace que el desarrollo sea más rápido y accesible.
+
 ## Componentes más habituales [↗](https://reactnative.dev/docs/components-and-apis#basic-components)
 
 - **`View`**: Un componente contenedor que se utiliza para agrupar otros componentes.
@@ -17,6 +21,8 @@ Este Cheat Sheet proporciona una guía rápida para desarrollar aplicaciones mó
 - **`ScrollView`**: Para desplazarse por contenido más grande que la pantalla.
 
 - **`FlatList`**: Muestra una lista de elementos con alto rendimiento.
+
+- **`<TouchableOpacity>`**: Agrega funcionalidad táctil a elementos.
 
 ```jsx
 import React from 'react';
