@@ -1,12 +1,14 @@
 # Dart Cheat Sheet
 
 ## Introducción a Dart
+
 - [Sitio web oficial de Dart](https://dart.dev/)
 - Dart es un lenguaje de programación de código abierto desarrollado por Google.
 
-
 ## Variables
+
 ### Declaración de variables
+
 ```dart
 var nombre = 'Juan';
 int edad = 30;
@@ -14,6 +16,7 @@ final pi = 3.14159;
 ```
 
 ### Tipos de variables
+
 - `var`: Inferencia de tipo.
 - `int`: Números enteros.
 - `double`: Números de punto flotante.
@@ -21,19 +24,24 @@ final pi = 3.14159;
 - `bool`: Valores booleanos.
 
 ### Interpolación de Strings
+
 ```dart
 var nombre = 'Juan';
 print('Hola, $nombre'); // Imprime 'Hola, Juan'
 ```
 
 ## Funciones
+
 ### Funciones de flecha (Arrow Functions)
+
 ```dart
 int multiplicar(int a, int b) => a * b;
 ```
 
 ## Estructuras de control
+
 ### If Statement
+
 ```dart
 if (condición) {
   // Código a ejecutar si la condición es verdadera
@@ -43,6 +51,7 @@ if (condición) {
 ```
 
 ### Switch Statement
+
 ```dart
 switch (valor) {
   case 1:
@@ -57,12 +66,15 @@ switch (valor) {
 ```
 
 ## Listas
+
 ### Declaración de listas
+
 ```dart
 var frutas = ['manzana', 'banana', 'naranja'];
 ```
 
 ### Lista de Objetos, Sets y Maps
+
 ```dart
 var personas = [
   {'nombre': 'Juan', 'edad': 30},
@@ -78,6 +90,7 @@ var mapa = {
 ```
 
 ## Operación de Cascades
+
 ```dart
 class Persona {
   String nombre;
@@ -99,7 +112,9 @@ void main() {
 ```
 
 ## Clases y Objetos
+
 ### Declaración de una clase
+
 ```dart
 class Persona {
   String _nombre; // Propiedad privada
@@ -114,11 +129,13 @@ class Persona {
 ```
 
 ### Creación de objetos
+
 ```dart
 var persona = Persona('Juan', 30);
 ```
 
 ## Programación Asíncrona (Future, Async, Await)
+
 ```dart
 Future<void> tareaAsincrona() async {
   print('Comenzando la tarea...');
@@ -133,7 +150,9 @@ void main() {
 ```
 
 ## Excepciones
+
 ### Try-Catch
+
 ```dart
 try {
   // Código que puede lanzar una excepción
@@ -142,13 +161,10 @@ try {
 }
 ```
 
-## Más Recursos
+## Recursos Adicionales
+
 - [Documentación oficial de Dart](https://dart.dev/guides)
 - [Dart en GitHub](https://github.com/dart-lang)
 - [Dart Quick Reference](https://quickref.me/dart.html)
 - [Dart Cheat Sheet en Español (PDF)](https://devtalles.com/files/dart-cheat-sheet.pdf) by [Fernando Herrera](https://fernando-herrera.com/#/about)
 - [Dart Cheat Sheet - Codelabs](https://dart.dev/codelabs/dart-cheatsheet)
-
----
-
-*Última actualización: 15 de octubre de 2023, 17:30 AM (GMT+1).*

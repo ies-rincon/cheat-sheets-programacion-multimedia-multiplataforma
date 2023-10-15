@@ -17,3 +17,7 @@ Este repositorio contiene una colección de Cheat Sheets para diferentes tecnolo
 ## Licencia
 
 Este repositorio se proporciona bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles sobre los términos de la licencia.
+
+---
+
+*Última actualización: 15 de octubre de 2023, 22:30 AM (GMT+1).*
