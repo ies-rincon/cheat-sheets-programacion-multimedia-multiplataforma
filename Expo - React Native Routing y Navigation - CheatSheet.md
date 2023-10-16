@@ -1,4 +1,4 @@
-# Expo - React Native Routing y Navegación
+# Expo - React Native Routing y Navegación [↗](https://github.com/ies-rincon/3_damna_23_24-pgl-expo-router-v2)
 
 En Expo y React Native, la navegación y el enrutamiento son aspectos fundamentales para crear una experiencia de usuario fluida en tus aplicaciones móviles. Expo ofrece un enfoque basado en stacks de navegación, que permite gestionar las transiciones entre pantallas y la organización de la navegación de manera eficiente.
 
