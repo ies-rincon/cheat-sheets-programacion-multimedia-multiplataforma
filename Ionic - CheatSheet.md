@@ -1,4 +1,4 @@
-# Cheat Sheet de Ionic
+# Ionic Cheat Sheet
 
 Este Cheat Sheet proporciona una guía rápida para el desarrollo de aplicaciones móviles con el framework Ionic.
 
