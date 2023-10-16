@@ -15,7 +15,7 @@ Este repositorio contiene una colección de Cheat Sheets para diferentes tecnolo
 En esta sección encontrarás recursos y Cheat Sheets relacionados con el enrutamiento y la navegación en las siguientes tecnologías:
 
 1. [Flutter Routing y Navigation Cheat Sheet](Flutter%20Routing%20y%20Navigation%20-%20CheatSheet.md) - Guía para el enrutamiento y la navegación en Flutter, el framework de desarrollo de aplicaciones móviles.
-2. [Expo - React Native Routing y Navigation Cheat Sheet](Expo%20-%20React%20Native%20Routing%20y%20Navigation%20-%20CheatSheet.md) - Recursos para enrutamiento y navegación en aplicaciones Expo y React Native.
+2. [Expo - React Native Routing y Navigation Cheat Sheet]([Expo%20-%20React%20Native%20Routing%20y%20Navigation%20-%20CheatSheet.md](https://github.com/ies-rincon/3_damna_23_24-pgl-expo-router-v2)) - Recursos para enrutamiento y navegación en aplicaciones Expo y React Native.
 3. [Ionic Routing y Navigation Cheat Sheet](Ionic%20Routing%20y%20Navigation%20-%20CheatSheet.md) - Guía para el enrutamiento y la navegación en aplicaciones desarrolladas con Ionic.
 
 ## Contribuciones
