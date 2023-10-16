@@ -33,7 +33,6 @@ Asegúrate de que la versión de Expo Router sea compatible con la versión de E
 | 49.0.0 y superior | 2.0.0 | `"main": "expo-router/entry"` |
 | 48.0.0 | 1.0.0 | `"main": "index.js"` |
 
-
 ### Creación de Páginas con Expo Router [↗](https://docs.expo.dev/routing/create-pages/)
 
 Expo Router utiliza una convención de enrutamiento basada en archivos que simplifica la creación de páginas en tu aplicación React Native. Cuando creas un archivo en el directorio de la aplicación `app/`, este automáticamente se convierte en una ruta en la aplicación. Por ejemplo, los siguientes archivos generan las siguientes rutas:
@@ -59,7 +58,6 @@ export default function Page() {
 ```
 
 El ejemplo anterior coincide con la ruta / en la aplicación y en el navegador. Los archivos con el nombre index coinciden con el directorio principal y no agregan un segmento de ruta adicional. Por ejemplo, app/settings/index.js coincide con /settings en la aplicación.
-
 
 #### Rutas Dinámicas
 
@@ -106,7 +104,7 @@ app
 
 La estructura de directorio anterior muestra cómo se organizan las páginas en la aplicación. Cada archivo representa una página y se pueden crear enlaces para moverte entre ellas.
 
-#### Ejemplo de Uso de Enlaces <Link>
+#### Ejemplo de Uso de Enlaces `<Link>`
 
 ```jsx
 // app/index.js
@@ -125,7 +123,6 @@ export default function Page() {
 ```
 
 Aquí tienes la nueva sección "Navegación Imperativa" y el texto correspondiente para agregar al archivo:
-
 
 #### Navegación Imperativa
 
@@ -221,7 +218,7 @@ Aquí tienes la nueva sección "Grupos" y el texto correspondiente para agregar 
 
 #### Grupos
 
-Puedes evitar que un segmento aparezca en la URL utilizando la sintaxis de grupo `()`. 
+Puedes evitar que un segmento aparezca en la URL utilizando la sintaxis de grupo `()`.
 
 - `app/root/home.js` coincide con `/root/home`
 - `app/(root)/home.js` coincide con `/home`
@@ -273,7 +270,6 @@ export default function Layout() {
 ```
 
 Este diseño de pila permite crear una navegación en pila con varias pantallas, lo que es útil para organizar y estructurar la navegación en tu aplicación.
-
 
 ### Tabs de Navegación [↗](https://docs.expo.dev/router/advanced/tabs/)
 
@@ -355,7 +351,6 @@ export default function Messages() {
 
 Este ejemplo ilustra cómo organizar y estructurar tus rutas y diseños en Expo Router para crear una navegación más eficiente y organizada en tu aplicación.
 
-
 ### Drawer de Navegación [↗](https://docs.expo.dev/router/advanced/drawer/)
 
 Un Drawer, en el contexto de la navegación de aplicaciones móviles y de React Native, es un componente de interfaz de usuario que se utiliza comúnmente para mostrar un menú de navegación lateral oculto. Este menú se encuentra fuera de la pantalla principal y se puede deslizar hacia adentro desde un borde de la pantalla (generalmente el borde izquierdo) o se puede activar tocando un botón o un icono en la pantalla. El término "Drawer" proviene de la idea de que este menú se "extrae" o "abre" desde un espacio oculto.
@@ -367,4 +362,3 @@ React Navigation ofrecen muchas opciones de personalización y navegación avanz
 Para obtener más información y recursos detallados sobre el enrutamiento y la navegación en Expo con react navigation, consulta la [documentación oficial de React Navigation](https://reactnavigation.org/).
 
 Este es solo un vistazo rápido al enrutamiento y la navegación en Expo y React Native. Puedes expandir y personalizar tu enfoque de navegación según tus necesidades específicas.
-

@@ -145,7 +145,6 @@ Flexbox (Flexible Box) es un modelo de diseño que permite organizar y alinear e
 
 - **`Flex-Direction, Justify-Content, Align-Items`**: [Este artículo de Medium](https://medium.com/@pateldhara248/flex-direction-justify-content-align-items-71d65bec1e95) ofrece una explicación detallada sobre propiedades y conceptos clave de Flexbox, como `flex-direction`, `justify-content`, y `align-items`. Es útil para comprender cómo funcionan estas propiedades y cómo aplicarlas en tus proyectos de diseño web y aplicaciones móviles.
 
-
 Más información sobre estilos y diseño se encuentra en la [documentación](https://reactnative.dev/docs/style) de React Native y Expo.
 
 ## `app.json` y `app.config.js` [↗](https://docs.expo.dev/workflow/configuration/)
