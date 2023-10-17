@@ -26,8 +26,6 @@ En esta sección encontrarás recursos y Cheat Sheets relacionados con la gesti�
 2. [Expo - React Native State Management Cheat Sheet](Expo%20-%20React%20Native%20State%Management%20Persist-%20CheatSheet.md) - Gestión de estados y persistencias de datos para Expo - React Native.
 3. [Ionic State Management Cheat Sheet](Ionic%20State%Management%20Persist-%20CheatSheet.md) - Gestión de estados y persistencias de datos para Ionic.
 
-¡Explora estas guías para aprender cómo implementar y aprovechar al máximo los gestores de estados en tus proyectos de desarrollo de aplicaciones!
-
 ## Contribuciones
 
 ¡Siéntete libre de contribuir a este repositorio! Puedes agregar nuevos Cheat Sheets, mejorar los existentes o proporcionar correcciones. Tu colaboración es bienvenida.
