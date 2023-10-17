@@ -8,6 +8,8 @@ Expo - React Native utiliza el sistema de estado de React para administrar los d
 
 - **Zustand**: Una [biblioteca simple y liviana](https://github.com/pmndrs/zustand) que se integra de manera eficiente con React. Es adecuada para administrar estados locales en componentes.
 
+- **React Context API**: Puedes aprovechar el [Context API](https://react.dev/learn/passing-data-deeply-with-context) de React para crear contextos y proporcionar estados a componentes específicos de tu aplicación. Esto facilita el intercambio de estados entre componentes sin necesidad de pasarlos manualmente a través de las propiedades. [↗](https://github.com/ies-rincon/3_damna_23_24-pgl-ut3-expo-rn-counter-app-with-state-management-context-api)
+
 - **Redux**: Una [biblioteca](https://redux.js.org/) popular que implementa la arquitectura de almacenamiento de aplicaciones basada en un único árbol de estados. Permite administrar de manera eficiente el estado global de la aplicación. [Redux Toolkit (RTK)](https://redux-toolkit.js.org/) es una biblioteca que simplifica la gestión del estado en aplicaciones React y React Native que utilizan Redux. Esta herramienta integra características clave que hacen que trabajar con Redux sea más eficiente.
 
 - **Mobx**: Una biblioteca que utiliza observables y reacciones para administrar el estado global y local. Es conocida por su simplicidad y capacidad de reactividad.
