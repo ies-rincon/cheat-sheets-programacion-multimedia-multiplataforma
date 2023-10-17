@@ -22,9 +22,9 @@ En esta sección encontrarás recursos y Cheat Sheets relacionados con el enruta
 
 En esta sección encontrarás recursos y Cheat Sheets relacionados con la gestión de estados en tus aplicaciones. Los gestores de estados son fundamentales para administrar los datos y la lógica de tu aplicación. A continuación, se detallan los gestores de estados más comunes:
 
-1. [Flutter State Management Cheat Sheet](Flutter%20State%20Management%20Persist%20-%20CheatSheet.md) - Gestión de estados y persistencias de datos para Flutter.
-2. [Expo - React Native State Management Cheat Sheet](Expo%20-%20React%20Native%20State%20Management%20Persist%20-%20CheatSheet.md) - Gestión de estados y persistencias de datos para Expo - React Native.
-3. [Ionic State Management Cheat Sheet](Ionic%20State%20Management%20Persist%20-%20CheatSheet.md) - Gestión de estados y persistencias de datos para Ionic.
+1. [Flutter State Management & Persistence Cheat Sheet](Flutter%20State%20Management%20Persist%20-%20CheatSheet.md) - Gestión de estados y persistencias de datos para Flutter.
+2. [Expo - React Native State Management & Persistence Cheat Sheet](Expo%20-%20React%20Native%20State%20Management%20Persist%20-%20CheatSheet.md) - Gestión de estados y persistencias de datos para Expo - React Native.
+3. [Ionic State Management & Persistence Cheat Sheet](Ionic%20State%20Management%20Persist%20-%20CheatSheet.md) - Gestión de estados y persistencias de datos para Ionic.
 
 ## Contribuciones
 
